@@ -93,3 +93,10 @@ REACT_APP_API_URL=http://127.0.0.1:5000
 | OpenAI errors | Verify API key & quota |
 
 **Clone → Setup .env → `python start.py` → `python app.py` → `npm start`** 🚀
+
+
+# IMPORTANT
+Be specific in the queries
+"If want to request all applications that is ran on servers from a specific countries" mention all in the query
+For instance:
+Give all application in San Fransisco
