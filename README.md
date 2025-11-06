@@ -84,6 +84,9 @@ REACT_APP_API_URL=http://127.0.0.1:5000
 - Reverse (3): HOSTED_ON, RUNS_ON_SERVER, CONTAINS_SERVER
 - Inferred (5): RUNS_ON_OS, IN_LOCATION, AVAILABLE_IN, CO_HOSTED_WITH, SAME_LOCATION_AS
 
+
+![alt text](image.png)
+
 ## Troubleshooting
 | Issue | Fix |
 |-------|-----|
