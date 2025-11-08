@@ -6,6 +6,9 @@ Natural language queries on Neo4j knowledge graphs using OpenAI LLM.
 
 ## Quick Start
 
+### Neo4j Setup
+
+
 ### Backend
 Run these commands:
 
@@ -26,7 +29,13 @@ Then
 
 `cd graphRAG-backend`
 
-`cp .env.example .env`
+`cp .env.example .env` 
+
+Populate your credentials in .env file that was just created
+
+neo4j credentials can be retrieved from the neo4j instance that you created.
+
+NEO4J_URI is the external URI that is provided by the neo4j instance
 
 `python start.py` # First time: init DB
 
