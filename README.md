@@ -29,7 +29,7 @@ Then
 
 `cd graphRAG-backend`
 
-`cp .envexample .env` 
+`cp .envexample ../.env` 
 
 Populate your credentials in .env file that was just created
 
